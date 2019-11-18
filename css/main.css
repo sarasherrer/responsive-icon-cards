@@ -22,12 +22,12 @@ body {
   box-sizing: inherit;
 }
 
-.card-img h2 {
+.card-body h2 {
   margin: 0;
   font-weight: normal;
 }
 
-.card-img p {
+.card-body p {
   margin: 0 0 1.3rem;
 }
 
