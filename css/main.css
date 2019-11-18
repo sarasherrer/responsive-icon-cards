@@ -47,11 +47,9 @@ body {
 .card-img img {
   margin-left: auto;
   margin-right: auto;
-  /* width: 100%; */
   display: block;
   width: 50px;
- }
-
+}
 
 @media only screen and (min-width: 38em) {
 
